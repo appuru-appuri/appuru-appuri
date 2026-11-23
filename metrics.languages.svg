@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.86672539335467" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.86672539335467" y="0" width="0.10120463172529069" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.96793002507997" y="0" width="0.023143790690171532" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.9910738157701" y="0" width="0.008926184229863165" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="459.76846993180925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.76846993180925" y="0" width="0.1998333721338323" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.96830330394306" y="0" width="0.022874408256972855" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="459.9911777122" y="0" width="0.008822287799964959" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>99.97%</div>
+                                <div>99.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,7 +47,7 @@
                                 Batchfile
                             </div>
                             <small>
-                                <div>0.01%</div>
+                                <div>0%</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>0.02%</div>
+                                <div>0.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
